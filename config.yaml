@@ -1,0 +1,7 @@
+packet_count: 20
+interface: ""
+filter: ""
+save_txt: true
+save_json: true
+show_payload: true
+payload_limit: 80
